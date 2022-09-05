@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "22858315450",
+    "project_id": "muro-829ad",
+    "storage_bucket": "muro-829ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22858315450:android:d68730433c933a04a67483",
+        "android_client_info": {
+          "package_name": "com.example.muro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22858315450-a01jd6alfnfgu179tuq4jfpat2ekrpje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx14gL6zN7aOEqmWcQ_Bj8YSv2Yp7z-xI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22858315450-a01jd6alfnfgu179tuq4jfpat2ekrpje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
