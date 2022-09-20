@@ -1,4 +1,4 @@
-# TextRecognitionWithGoogleMLKit
+# Okey101WithGoogleMLKit
 #### Video Demo:  <URL HERE>
-#### Description: Text Recognition With Google ML Kit
+#### Description: Numbers Checker for Okey 101 Game With Google ML Kit
 TODO
